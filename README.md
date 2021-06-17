@@ -28,9 +28,9 @@ yarn add \
 
 - PostCSS 구성을 위한 객체를 가져온다.
 
-const { styles } = require( '@ckeditor/ckeditor5-dev-utils' );
+    const { styles } = require( '@ckeditor/ckeditor5-dev-utils' );
 
-- CKEditor5를 조작하기위한 SVG, CSS 로더를 설정 (module.rules 배열에 내부에 추가)
+- CKEditor5를 조작하기위한 SVG, CSS 로더를 설정 (module.rules 배열 내부에 추가)
 
 ```
 {
@@ -135,9 +135,6 @@ const { styles } = require( '@ckeditor/ckeditor5-dev-utils' );
 - npm install --save @ckeditor/ckeditor5-media-embed
 
 ### [참고]
-
-- 만들어둔 예제
-
 - 리액트 + CKEditor5 생성
 
 [React component - CKEditor 5 Documentation](https://ckeditor.com/docs/ckeditor5/latest/builds/guides/integration/frameworks/react.html)
