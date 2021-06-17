@@ -134,6 +134,9 @@ yarn add \
 - npm install --save @ckeditor/ckeditor5-indent
 - npm install --save @ckeditor/ckeditor5-media-embed
 
+### 9. 이미지 업로드
+- 내용 추가 하기
+
 ### [참고]
 - 리액트 + CKEditor5 생성
 
